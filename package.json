@@ -1,0 +1,14 @@
+{
+  "name": "servergps",
+  "version": "1.0.0",
+  "description": "Server TCP untuk GPS Tracker protokol GT06",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
