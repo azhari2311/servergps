@@ -1,0 +1,9 @@
+app = "servergps"
+primary_region = "sin"
+
+[[services]]
+  protocol = "tcp"
+  internal_port = 5023
+
+  [[services.ports]]
+    port = 5023
